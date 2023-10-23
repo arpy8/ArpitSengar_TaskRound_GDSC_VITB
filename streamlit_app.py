@@ -1,7 +1,3 @@
-
-import nltk
-nltk.download("shakespeare")
-
 import random
 from nltk.util import ngrams
 import streamlit as st
