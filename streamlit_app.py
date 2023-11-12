@@ -4,7 +4,7 @@ import streamlit as st
 
 st.set_page_config(page_title="Shakespeare’s Sonnets", page_icon="📔")
 
-shakespeare_sonnets = open("./data/Sonnets.txt", "r").readlines()
+shakespeare_sonnets = open("./Data/Sonnets.txt", "r").readlines()
 shakespeare_text = [text.rstrip("\n") for text in shakespeare_sonnets] 
 
 ngram_model = {}
