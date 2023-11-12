@@ -1,6 +1,6 @@
 # Shakespearean Sonnet Generator
 
-![Shakespeare's Sonnets](link-to-an-image-if-any)
+![banner](assets/banner.png)
 
 ## Overview
 
